@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/mwitiderrick/gallery-camera" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/flutter/plugins/tree/master/packages/image_picker/image_picker" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\flutterProjects" />
