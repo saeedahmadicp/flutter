@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244100154854",
+    "project_id": "stackvault-saeed",
+    "storage_bucket": "stackvault-saeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244100154854:android:b1ce9ea590aeccb3794227",
+        "android_client_info": {
+          "package_name": "com.saeedkhan.stack_vault2_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244100154854-c5tafb13qv14vbbuodg7u2kas9dl9ed2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSEgBnB2boIir5kdcl38WLU1UwFU6oOSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244100154854-c5tafb13qv14vbbuodg7u2kas9dl9ed2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
